@@ -1,0 +1,51 @@
+# Entorno del análisis de AGEBs — CDMX
+# Probado con Python 3.11.15. Usa Python 3.11 o 3.12: PyMC/PyTensor todavía no
+# dan soporte estable a 3.13/3.14.
+#
+#   python3.11 -m venv .venv
+#   source .venv/bin/activate          # en Windows: .venv\Scripts\activate
+#   pip install -r requirements.txt
+#   python -m ipykernel install --user --name inegi --display-name "Python (inegi)"
+#   jupyter lab
+
+# --- datos y cálculo ---------------------------------------------------------
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+statsmodels==0.15.0
+scikit-learn==1.8.0
+
+# --- geoespacial -------------------------------------------------------------
+# pyogrio trae GDAL en el wheel, así que no hace falta instalar GDAL aparte
+geopandas==1.1.4
+shapely==2.1.2
+pyogrio==0.13.0
+pyproj==3.7.2
+mapclassify==2.10.0
+
+# --- econometría espacial ----------------------------------------------------
+libpysal==4.14.1
+esda==2.9.0
+
+# --- bayesiano ---------------------------------------------------------------
+# PyMC compila C++ con PyTensor. Si falla (típico en macOS con Apple Silicon),
+# el notebook cae solo a la aproximación variacional de statsmodels y corre
+# igual. Ver la sección de requisitos del notebook para arreglar la compilación.
+pymc==5.28.5
+pytensor==2.38.3
+arviz==0.23.4
+
+# --- gráficas ----------------------------------------------------------------
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# --- entorno de trabajo ------------------------------------------------------
+jupyterlab
+ipykernel
+nbformat==5.11.1
+
+# --- opcionales --------------------------------------------------------------
+# nutpie          # muestreador en Rust; evita compilar C++ con PyTensor
+# contextily      # mapas base para las coropletas
+# spreg           # modelos espaciales SAR/SEM (no se usan en la versión final)
+# mgwr            # regresión geográficamente ponderada (idem)

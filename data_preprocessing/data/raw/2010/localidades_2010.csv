@@ -1,0 +1,548 @@
+﻿ent,mun,nom_mun,loc,nom_loc
+09,002,Azcapotzalco,0001,Azcapotzalco
+09,003,Coyoacán,0001,Coyoacán
+09,004,Cuajimalpa de Morelos,0001,Cuajimalpa de Morelos
+09,004,Cuajimalpa de Morelos,0010,Cruz Blanca
+09,004,Cuajimalpa de Morelos,0020,San Lorenzo Acopilco
+09,004,Cuajimalpa de Morelos,0050,La Venta
+09,004,Cuajimalpa de Morelos,0054,Puerto las Cruces (Monte las Cruces)
+09,004,Cuajimalpa de Morelos,0055,Teopazulco
+09,004,Cuajimalpa de Morelos,0057,Prolongación Constitución
+09,004,Cuajimalpa de Morelos,0058,Paraje Río Borracho
+09,004,Cuajimalpa de Morelos,0060,La Bolsa (El Encinal)
+09,004,Cuajimalpa de Morelos,0062,Rancho los Campesinos
+09,004,Cuajimalpa de Morelos,0063,Santa Rosa
+09,004,Cuajimalpa de Morelos,0064,Paraje Cerro de los Padres
+09,004,Cuajimalpa de Morelos,0065,El Boji (San Jacinto)
+09,004,Cuajimalpa de Morelos,0066,Rancho Santa Laura
+09,004,Cuajimalpa de Morelos,0067,La Papa [Escuela Niños Héroes]
+09,004,Cuajimalpa de Morelos,0069,La Troje
+09,004,Cuajimalpa de Morelos,0070,Punta Galicia
+09,004,Cuajimalpa de Morelos,0071,Ninguno
+09,004,Cuajimalpa de Morelos,0073,Santiago Yacuitlalpan
+09,004,Cuajimalpa de Morelos,0074,Punta Ahuatenco
+09,005,Gustavo A. Madero,0001,Gustavo A. Madero
+09,006,Iztacalco,0001,Iztacalco
+09,007,Iztapalapa,0001,Iztapalapa
+09,008,La Magdalena Contreras,0001,La Magdalena Contreras
+09,008,La Magdalena Contreras,0071,Paraje las Llantas
+09,008,La Magdalena Contreras,0075,Segundo Dinamo
+09,008,La Magdalena Contreras,0083,El Gavillero
+09,008,La Magdalena Contreras,0088,Totolapa
+09,008,La Magdalena Contreras,0101,Paraje el Rancho
+09,008,La Magdalena Contreras,0103,Paraje Aila
+09,008,La Magdalena Contreras,0104,Rancho Viejo
+09,008,La Magdalena Contreras,0105,La Loma
+09,008,La Magdalena Contreras,0108,Rincón Eslava
+09,008,La Magdalena Contreras,0110,Paraje Chepecano
+09,008,La Magdalena Contreras,0111,Rancho Chichicaspa
+09,008,La Magdalena Contreras,0112,Paraje Chichicaspa
+09,009,Milpa Alta,0001,Villa Milpa Alta
+09,009,Milpa Alta,0011,San Antonio Tecómitl
+09,009,Milpa Alta,0015,San Bartolomé Xicomulco
+09,009,Milpa Alta,0017,San Francisco Tecoxpa
+09,009,Milpa Alta,0024,San Pablo Oztotepec
+09,009,Milpa Alta,0029,San Pedro Atocpan
+09,009,Milpa Alta,0033,San Salvador Cuauhtenco
+09,009,Milpa Alta,0036,Santa Ana Tlacotenco
+09,009,Milpa Alta,0037,Cruztitla
+09,009,Milpa Alta,0039,Atlimeya
+09,009,Milpa Alta,0041,Atoctienco
+09,009,Milpa Alta,0045,Totolan
+09,009,Milpa Alta,0046,Xoctonco
+09,009,Milpa Alta,0050,Cozcatlán
+09,009,Milpa Alta,0052,La Herradura (Séptima Curva)
+09,009,Milpa Alta,0054,Zangahco
+09,009,Milpa Alta,0056,Hueycotzingo
+09,009,Milpa Alta,0066,Cuauhtec (El Mirador Santa Ana Tlacotenco)
+09,009,Milpa Alta,0067,La Mora
+09,009,Milpa Alta,0068,Metenco
+09,009,Milpa Alta,0072,Tamasquiti
+09,009,Milpa Alta,0074,San Agustín el Alto
+09,009,Milpa Alta,0077,San Marcos
+09,009,Milpa Alta,0079,Atlatlauco
+09,009,Milpa Alta,0081,Cuyucalco
+09,009,Milpa Alta,0082,Iztauhagca
+09,009,Milpa Alta,0083,Tzotzomaco
+09,009,Milpa Alta,0084,Tlatepexco
+09,009,Milpa Alta,0088,San Paocotitla
+09,009,Milpa Alta,0090,Tlacopac
+09,009,Milpa Alta,0092,Tecolotzitzatzian (Piltongo)
+09,009,Milpa Alta,0095,Mecatzintla
+09,009,Milpa Alta,0096,Tequianquiztunco
+09,009,Milpa Alta,0098,Tetexipezco
+09,009,Milpa Alta,0099,Tetlicuili (El Encinal)
+09,009,Milpa Alta,0100,Teuhtli
+09,009,Milpa Alta,0101,Texcalahuitiel
+09,009,Milpa Alta,0103,Tezompa
+09,009,Milpa Alta,0104,Colonia Teziuhtepec
+09,009,Milpa Alta,0105,Tetzumpa
+09,009,Milpa Alta,0109,Tlaxala
+09,009,Milpa Alta,0110,Cuescomatepec
+09,009,Milpa Alta,0112,Tetepanco
+09,009,Milpa Alta,0113,Cerrada Francisco I. Madero
+09,009,Milpa Alta,0115,San José
+09,009,Milpa Alta,0116,Hueytepetl
+09,009,Milpa Alta,0117,Coximalipa
+09,009,Milpa Alta,0120,Texacatipac
+09,009,Milpa Alta,0123,La Mora III
+09,009,Milpa Alta,0124,La Mora IV
+09,009,Milpa Alta,0125,La Mora V
+09,009,Milpa Alta,0126,Coyocalli
+09,009,Milpa Alta,0129,Tlapalan
+09,009,Milpa Alta,0130,Retamatitla
+09,009,Milpa Alta,0131,Texalco
+09,009,Milpa Alta,0134,Quepilco
+09,009,Milpa Alta,0135,Texococlixpa (Rancho Santa Elena)
+09,009,Milpa Alta,0138,Barranca Seca (Pozo Ocho)
+09,009,Milpa Alta,0139,Teatlaco
+09,009,Milpa Alta,0140,Tlaloxtoc (Ejidos de Tecoxpa)
+09,009,Milpa Alta,0142,Atuzanco
+09,009,Milpa Alta,0147,El Potrero
+09,009,Milpa Alta,0148,Jalisco Uno
+09,009,Milpa Alta,0151,Miquixpa
+09,009,Milpa Alta,0152,San Lorenzo Tlacoyucan
+09,009,Milpa Alta,0154,Rinconada del Tioca
+09,009,Milpa Alta,0155,Tlacpa
+09,009,Milpa Alta,0156,Temoclaluca
+09,009,Milpa Alta,0158,Malacaxco
+09,009,Milpa Alta,0159,Cuatlixco
+09,009,Milpa Alta,0160,Tlaloxtutienco (Montesinos)
+09,009,Milpa Alta,0161,Coametzu
+09,009,Milpa Alta,0163,Cuauhtunco
+09,009,Milpa Alta,0167,Tepetenco
+09,009,Milpa Alta,0168,San Isidro Cuatepec
+09,009,Milpa Alta,0169,Xaluis (Ixtahuaca)
+09,009,Milpa Alta,0171,Tlacaxatl (Barrio Xochitepec)
+09,009,Milpa Alta,0172,Tlachachalipac
+09,009,Milpa Alta,0173,Camino Real a Tlaltenami
+09,009,Milpa Alta,0174,Mecalco
+09,009,Milpa Alta,0176,Zacatonco
+09,009,Milpa Alta,0177,Carretera a Santa Ana
+09,009,Milpa Alta,0178,Xali
+09,009,Milpa Alta,0185,Zacaxontlicpa
+09,009,Milpa Alta,0187,Santa Catarina (Piedra Blanca)
+09,009,Milpa Alta,0188,Paraje Cuauhtetec
+09,009,Milpa Alta,0189,Hueytlalpan
+09,009,Milpa Alta,0191,Tlatilpampa
+09,009,Milpa Alta,0192,Tetzmititla
+09,009,Milpa Alta,0195,Tlaxiomulco
+09,009,Milpa Alta,0196,Tepachac
+09,009,Milpa Alta,0197,Chichauhtonco
+09,009,Milpa Alta,0198,Tecoloxtitla
+09,009,Milpa Alta,0199,Tapalaco (Amacapultitla)
+09,009,Milpa Alta,0200,Teacalco
+09,009,Milpa Alta,0201,Iztlalco
+09,009,Milpa Alta,0202,Conzontlicpa
+09,009,Milpa Alta,0203,Huepaltepec
+09,009,Milpa Alta,0204,Mecatlán (Rancho el Refugio)
+09,009,Milpa Alta,0205,Tecupilco (Kilómetro 17.5)
+09,009,Milpa Alta,0206,Xaxalpa
+09,009,Milpa Alta,0207,Xaltepetitla
+09,009,Milpa Alta,0208,Tetecolok
+09,009,Milpa Alta,0209,Tlaxicoapa (Mulotla)
+09,009,Milpa Alta,0210,Santa Rosa
+09,009,Milpa Alta,0211,Olla de Piedra
+09,009,Milpa Alta,0213,El Zapote (Techultepec)
+09,009,Milpa Alta,0214,Maxulco (Barrio Cruztitla)
+09,009,Milpa Alta,0215,El Pirul
+09,009,Milpa Alta,0216,Prolongación Avenida México Norte
+09,009,Milpa Alta,0217,Zacuaztitla
+09,009,Milpa Alta,0218,Rancho Paraíso Escondido
+09,009,Milpa Alta,0219,Omaxal
+09,009,Milpa Alta,0220,Mimiradorco
+09,009,Milpa Alta,0222,Ahuatitla
+09,009,Milpa Alta,0223,Texacazintla (Xacalixpa)
+09,009,Milpa Alta,0224,Chichilecas
+09,009,Milpa Alta,0225,Camino a la Granja
+09,009,Milpa Alta,0226,Calle Capulines
+09,009,Milpa Alta,0227,Rancho los Capulines
+09,009,Milpa Alta,0228,Temoayan
+09,009,Milpa Alta,0229,Prolongación Xolotl
+09,009,Milpa Alta,0230,Tequimilpa
+09,009,Milpa Alta,0232,Meliaxco
+09,009,Milpa Alta,0233,Las Cruces Parte Alta (Tehuepanco)
+09,009,Milpa Alta,0234,Cuapalipa
+09,009,Milpa Alta,0235,Camino Tigustitla
+09,009,Milpa Alta,0236,Zacaticli
+09,009,Milpa Alta,0237,Tenopantitla
+09,009,Milpa Alta,0238,Ocoteloloco (Tlaxcantitla)
+09,009,Milpa Alta,0239,Tecpallo
+09,009,Milpa Alta,0241,Nuch Huaca (Techinantitle)
+09,009,Milpa Alta,0242,Cuacuahotlipa
+09,009,Milpa Alta,0243,Tlalcospa (Nacatulatlaco)
+09,009,Milpa Alta,0244,Teshutla
+09,009,Milpa Alta,0245,Citlalcuac (Rancho el Paraíso Perdido)
+09,009,Milpa Alta,0246,Prolongación Niños Héroes
+09,009,Milpa Alta,0248,Paraje Huicalco
+09,009,Milpa Alta,0249,Los Aguilar
+09,009,Milpa Alta,0250,Tetexaloca
+09,009,Milpa Alta,0251,Prolongación Justo Sierra
+09,009,Milpa Alta,0252,Acatlaco
+09,009,Milpa Alta,0253,Xalmoyo
+09,009,Milpa Alta,0254,Paraje Oluca
+09,009,Milpa Alta,0255,Ninguno
+09,009,Milpa Alta,0256,La Joya
+09,009,Milpa Alta,0257,Camino Viejo a Santa Cruz
+09,009,Milpa Alta,0258,Paraje la Cruz
+09,009,Milpa Alta,0260,Mixquiahuac
+09,009,Milpa Alta,0261,Zacamoli
+09,009,Milpa Alta,0264,Panuca (Kilómetro 27.5)
+09,009,Milpa Alta,0265,Tlaltepec
+09,009,Milpa Alta,0266,Las Palmas (Chimeo)
+09,009,Milpa Alta,0268,AA Milpa Alta
+09,009,Milpa Alta,0269,El Cerrito
+09,009,Milpa Alta,0271,San Miguelito (Tecoxomayehuactitla)
+09,009,Milpa Alta,0273,Texomulco
+09,009,Milpa Alta,0274,Prolongación Benito Juárez
+09,009,Milpa Alta,0275,Tlalcocomoya
+09,009,Milpa Alta,0276,Zozotlac
+09,009,Milpa Alta,0277,Atoctenco (Tlalaxco)
+09,009,Milpa Alta,0278,Cerrada Buenavista
+09,009,Milpa Alta,0280,Ninguno
+09,009,Milpa Alta,0281,Rancho Zihuantemohuayan
+09,009,Milpa Alta,0282,Carretera a San Bartolo
+09,009,Milpa Alta,0283,Tlatzala
+09,009,Milpa Alta,0284,Tetzompa
+09,009,Milpa Alta,0285,Prolongación Mina
+09,009,Milpa Alta,0288,Tlacopanco
+09,009,Milpa Alta,0289,Pitucaltitla
+09,009,Milpa Alta,0291,Prolongación Veracruz Sur
+09,009,Milpa Alta,0292,Joyas Parte Alta
+09,009,Milpa Alta,0293,Camino de la Amistad
+09,009,Milpa Alta,0294,Ninguno
+09,009,Milpa Alta,0295,Prolongación Juan Escutia
+09,009,Milpa Alta,0297,San Antonio Cuilotepec
+09,009,Milpa Alta,0299,Tenochcalco
+09,009,Milpa Alta,0300,San Nicolás Tetelco
+09,009,Milpa Alta,0301,El Tejocote
+09,009,Milpa Alta,0302,Ejidos Tecoxpa
+09,009,Milpa Alta,0303,Ninguno
+09,009,Milpa Alta,0304,Avenida el Cerro
+09,009,Milpa Alta,0305,Corrantitla
+09,009,Milpa Alta,0306,Tepanoco
+09,009,Milpa Alta,0307,Ninguno
+09,009,Milpa Alta,0308,Ninguno
+09,009,Milpa Alta,0309,Zacatipla
+09,009,Milpa Alta,0310,Paraje Santa Rosa Xalco
+09,009,Milpa Alta,0311,Ninguno
+09,009,Milpa Alta,0312,Villa Hermosa
+09,009,Milpa Alta,0313,Ninguno
+09,009,Milpa Alta,0314,Ninguno
+09,009,Milpa Alta,0315,Barrio Nochtitla
+09,009,Milpa Alta,0316,Paraje Tehuizco
+09,009,Milpa Alta,0317,Achayatipac
+09,009,Milpa Alta,0318,Ninguno
+09,009,Milpa Alta,0319,Ninguno
+09,009,Milpa Alta,0320,Ermita del Calvario
+09,009,Milpa Alta,0321,La Virgen
+09,009,Milpa Alta,0322,Natlahuacaloca
+09,009,Milpa Alta,0323,Huixtotlazintla
+09,009,Milpa Alta,0324,Ninguno
+09,009,Milpa Alta,0325,Ninguno
+09,009,Milpa Alta,0327,Ninguno
+09,009,Milpa Alta,0328,Ninguno
+09,009,Milpa Alta,0329,Ninguno
+09,009,Milpa Alta,0330,Ninguno
+09,009,Milpa Alta,0331,Ninguno
+09,009,Milpa Alta,0332,Ninguno
+09,009,Milpa Alta,0333,Tezontlipac
+09,009,Milpa Alta,0334,Ninguno
+09,009,Milpa Alta,0335,Ninguno
+09,009,Milpa Alta,0336,Ninguno
+09,009,Milpa Alta,0337,Ninguno
+09,009,Milpa Alta,0338,Ninguno
+09,009,Milpa Alta,0339,Ninguno
+09,009,Milpa Alta,0340,Ninguno
+09,009,Milpa Alta,0341,Paraje Texotitla
+09,009,Milpa Alta,0342,Paraje Cuatepec
+09,009,Milpa Alta,0344,Ocotitla
+09,009,Milpa Alta,0345,Toltecas (Parte Alta)
+09,009,Milpa Alta,0346,Palo Dulce
+09,009,Milpa Alta,0347,Xochiatlaco
+09,009,Milpa Alta,0348,Huacaltunco
+09,009,Milpa Alta,0349,Ixotitla
+09,010,Álvaro Obregón,0001,Álvaro Obregón
+09,010,Álvaro Obregón,0002,Cuauhtlamila
+09,010,Álvaro Obregón,0213,Ampliación San Bernabé (Tenango)
+09,010,Álvaro Obregón,0216,El Ermitaño (Paraje el Chipil)
+09,011,Tláhuac,0001,Tláhuac
+09,011,Tláhuac,0011,San Andrés Mixquic
+09,011,Tláhuac,0021,San Juan Ixtayopan
+09,011,Tláhuac,0024,San Nicolás Tetelco
+09,011,Tláhuac,0026,Santa Catarina Yecahuitzotl
+09,011,Tláhuac,0069,Barrio San Miguel
+09,011,Tláhuac,0071,Tabla los Pozos
+09,011,Tláhuac,0072,Mesita del Capulín
+09,011,Tláhuac,0076,Ojo de Agua
+09,011,Tláhuac,0081,San Miguel (Chinampas)
+09,011,Tláhuac,0086,Xila
+09,011,Tláhuac,0089,El Tetecon (El Solitario)
+09,011,Tláhuac,0094,Chinampa San Juan
+09,011,Tláhuac,0103,Paraje Xometitla
+09,011,Tláhuac,0104,San Ignacio de Loyola
+09,011,Tláhuac,0108,Paraje Ayecac
+09,011,Tláhuac,0110,La Ciénega
+09,011,Tláhuac,0111,Chinampas Tetelco
+09,011,Tláhuac,0113,Lomas de Xocotlán
+09,011,Tláhuac,0116,Santa Catarina [Lienzo Charro]
+09,011,Tláhuac,0119,Tierra Blanca Parte Alta
+09,011,Tláhuac,0120,Rancho las Siete Yuntas
+09,011,Tláhuac,0122,Las Tablas
+09,011,Tláhuac,0124,Mina la Estancia
+09,011,Tláhuac,0126,Camino a Tlaltenco
+09,011,Tláhuac,0128,Prolongación Peña Alta
+09,011,Tláhuac,0129,Rancho los Pollitos
+09,011,Tláhuac,0133,El Rancho (Rancho la Pistola del Ejido)
+09,011,Tláhuac,0134,Ninguno
+09,011,Tláhuac,0136,El Pato
+09,011,Tláhuac,0137,Ninguno
+09,011,Tláhuac,0140,El Paraíso (Mecoxtla)
+09,011,Tláhuac,0141,El Zapote (Colonia Ejidal)
+09,011,Tláhuac,0142,Ampliación San Miguel
+09,011,Tláhuac,0143,Ninguno
+09,011,Tláhuac,0145,Ninguno
+09,011,Tláhuac,0147,Ninguno
+09,011,Tláhuac,0148,Ninguno
+09,011,Tláhuac,0149,Prolongación el Rosario
+09,011,Tláhuac,0150,La Nopalera
+09,011,Tláhuac,0151,Ninguno
+09,012,Tlalpan,0001,Tlalpan
+09,012,Tlalpan,0019,Parres (El Guarda)
+09,012,Tlalpan,0026,San Miguel Ajusco
+09,012,Tlalpan,0027,San Miguel Topilejo
+09,012,Tlalpan,0103,Ampliación las Cruces
+09,012,Tlalpan,0104,La Cima Uno [Campamento Forestal]
+09,012,Tlalpan,0105,Apapaxtles
+09,012,Tlalpan,0108,Paraje Cercatenco
+09,012,Tlalpan,0112,Acueducto
+09,012,Tlalpan,0114,Cuamino
+09,012,Tlalpan,0115,Las Cruces
+09,012,Tlalpan,0116,El Crucero (SEDECO)
+09,012,Tlalpan,0118,Estación la Cima
+09,012,Tlalpan,0123,Xacatixtla (Granja la Garriga)
+09,012,Tlalpan,0124,Colonia Héroes de 1910
+09,012,Tlalpan,0128,Rancho las Raíces
+09,012,Tlalpan,0131,Kilómetro 37
+09,012,Tlalpan,0132,Kilómetro 33.5
+09,012,Tlalpan,0135,Lomas de Tepemecatl
+09,012,Tlalpan,0140,El Oyamel
+09,012,Tlalpan,0141,El Paraíso
+09,012,Tlalpan,0144,Piedra Larga
+09,012,Tlalpan,0153,Rancho Roberto Camacho
+09,012,Tlalpan,0155,Rancho San Carlos
+09,012,Tlalpan,0159,Rancho Santísima Trinidad
+09,012,Tlalpan,0160,Seminario Nazareno
+09,012,Tlalpan,0161,El Pedregal
+09,012,Tlalpan,0162,El Sifón
+09,012,Tlalpan,0164,Kilómetro 17 (Circuito Ajusco)
+09,012,Tlalpan,0168,Xalcuitongo (La Asunción)
+09,012,Tlalpan,0170,Prolongación las Rosas
+09,012,Tlalpan,0171,La Trinidad
+09,012,Tlalpan,0175,Siete Ocotes
+09,012,Tlalpan,0179,El Charco
+09,012,Tlalpan,0192,Rancho Kyalami
+09,012,Tlalpan,0193,Los Sauces
+09,012,Tlalpan,0197,Rancho San Francisco
+09,012,Tlalpan,0198,Cortijo Atonco
+09,012,Tlalpan,0199,Paraje el Cofrecito
+09,012,Tlalpan,0200,Rancho Espiridión
+09,012,Tlalpan,0201,Rancho los Compadres
+09,012,Tlalpan,0202,Rancho el Paraíso
+09,012,Tlalpan,0204,Rancho los Pioneros
+09,012,Tlalpan,0207,Hacienda el Arenal
+09,012,Tlalpan,0209,Rancho San Nicolás
+09,012,Tlalpan,0210,El Arenal
+09,012,Tlalpan,0216,Cuanejaque
+09,012,Tlalpan,0217,El Oyameyo
+09,012,Tlalpan,0218,Parada Oyameyo (Kilómetro 31.5)
+09,012,Tlalpan,0220,Paraje la Campana (Kilómetro 12)
+09,012,Tlalpan,0221,Paraje la Rufina
+09,012,Tlalpan,0222,El Cráter
+09,012,Tlalpan,0232,Rancho el Alambrado
+09,012,Tlalpan,0235,El Hilar
+09,012,Tlalpan,0236,Paraje el Abrevadero
+09,012,Tlalpan,0237,Xomulco (Oyamertonco)
+09,012,Tlalpan,0239,Rancho Santa Rosa
+09,012,Tlalpan,0245,Los Manueles
+09,012,Tlalpan,0246,Rancho Chico
+09,012,Tlalpan,0251,Quinta Santa Rosa
+09,012,Tlalpan,0252,La Morucha
+09,012,Tlalpan,0253,Rancho San Patricio
+09,012,Tlalpan,0254,Barranquilla
+09,012,Tlalpan,0257,Rancho Mezontepec
+09,012,Tlalpan,0261,Aguatenco
+09,012,Tlalpan,0262,El Sicomoro
+09,012,Tlalpan,0263,Tlamenelolpa (Los Encinos)
+09,012,Tlalpan,0266,La Providencia
+09,012,Tlalpan,0267,Finca Trancas
+09,012,Tlalpan,0269,Paraje Temazcaltitla (Kilómetro 32.2)
+09,012,Tlalpan,0270,Paraje de Apantenco
+09,012,Tlalpan,0271,Totoapan
+09,012,Tlalpan,0272,Colonia Ocotla
+09,012,Tlalpan,0275,Kilómetro 29.5
+09,012,Tlalpan,0276,Kilómetro 30
+09,012,Tlalpan,0277,Kilómetro 30.5
+09,012,Tlalpan,0278,José María Morelos
+09,012,Tlalpan,0282,Ocotla Chico
+09,012,Tlalpan,0283,Paraje Atonco
+09,012,Tlalpan,0290,La Herradura
+09,012,Tlalpan,0291,Carretera al Ajusco
+09,012,Tlalpan,0292,El Pedregal
+09,012,Tlalpan,0295,Chahualixcatitla
+09,012,Tlalpan,0296,Rancho San José
+09,012,Tlalpan,0299,Pedro Moreno
+09,012,Tlalpan,0300,Colonia San Juan
+09,012,Tlalpan,0301,Colonia Aguayoto
+09,012,Tlalpan,0302,Los Encinos
+09,012,Tlalpan,0303,Kilómetro 32.1
+09,012,Tlalpan,0305,Lienzo Charro Pepe Castro
+09,012,Tlalpan,0306,Tres Vientos
+09,012,Tlalpan,0308,Kilómetro 7.5 (Circuito Ajusco)
+09,012,Tlalpan,0310,Camino a la Venta
+09,012,Tlalpan,0311,Paraje la Monera
+09,012,Tlalpan,0317,El Tianguillo (Kilómetro 19.5)
+09,012,Tlalpan,0318,Criadero Kodik
+09,012,Tlalpan,0321,Camino Cantera Cantil
+09,012,Tlalpan,0326,Cuauhtenco
+09,012,Tlalpan,0327,Huehuecalli
+09,012,Tlalpan,0328,Ejidos de San Andrés Totoltepec
+09,012,Tlalpan,0330,Área de los Venados (La SIREFA)
+09,012,Tlalpan,0331,Cabaña del Xitle
+09,012,Tlalpan,0332,Prolongación Narciso Mendoza
+09,012,Tlalpan,0333,Prolongación Acueducto
+09,012,Tlalpan,0335,Rancho el Tordi...yo
+09,012,Tlalpan,0337,Rancho Yamel
+09,012,Tlalpan,0338,Kilómetro 14.5
+09,012,Tlalpan,0340,Rancho Tres Hermanos
+09,012,Tlalpan,0341,Kilómetro 33.5 Circuito Ajusco
+09,012,Tlalpan,0342,Rancho Matamoros
+09,012,Tlalpan,0343,Rancho Valentina
+09,012,Tlalpan,0345,Ermita Ajusco
+09,012,Tlalpan,0346,El Cedral
+09,012,Tlalpan,0347,Las Calaveras
+09,012,Tlalpan,0350,Los Tlapancos
+09,012,Tlalpan,0351,Carretera al Ajusco II
+09,012,Tlalpan,0352,Las Canteras
+09,012,Tlalpan,0353,Camino Antiguo a Cuernavaca
+09,012,Tlalpan,0354,Cañada del Acueducto
+09,012,Tlalpan,0355,Acueducto 1ra. Sección
+09,012,Tlalpan,0358,El Arcoiris
+09,012,Tlalpan,0360,Rancho Ahuayoto
+09,012,Tlalpan,0365,Rancho Ojo de Agua
+09,012,Tlalpan,0368,Tepelancoxtla
+09,012,Tlalpan,0371,Ninguno
+09,012,Tlalpan,0373,Cuailacastitla
+09,012,Tlalpan,0374,Paraje Tlalmenelolpa
+09,012,Tlalpan,0376,Teteocotla
+09,012,Tlalpan,0378,Rancho Viejo
+09,012,Tlalpan,0379,Paraje el Negro
+09,012,Tlalpan,0381,Ololica
+09,012,Tlalpan,0382,Ninguno
+09,012,Tlalpan,0383,Kilómetro 31
+09,012,Tlalpan,0389,La Loma
+09,012,Tlalpan,0390,La Reja
+09,012,Tlalpan,0391,Popocotla
+09,012,Tlalpan,0392,Colonia Cuauhtenco (Kilómetro 27)
+09,012,Tlalpan,0393,Kilómetro 28 Sur
+09,012,Tlalpan,0394,Paraje Buenavista
+09,012,Tlalpan,0395,Rancho los Encinos
+09,012,Tlalpan,0396,Tezontitla
+09,013,Xochimilco,0001,Xochimilco
+09,013,Xochimilco,0091,Tepemimilco
+09,013,Xochimilco,0096,Paraje Izotitla
+09,013,Xochimilco,0109,Paraje la Huerta
+09,013,Xochimilco,0111,Paraje Lila (El Ladrillo)
+09,013,Xochimilco,0112,Paraje Texhuilo
+09,013,Xochimilco,0113,Paraje Zacapa
+09,013,Xochimilco,0118,Barrio San Antonio (Cruz Monte)
+09,013,Xochimilco,0131,Tepepan
+09,013,Xochimilco,0134,Ampliación Chalmita
+09,013,Xochimilco,0136,Tepexomulco
+09,013,Xochimilco,0137,Tlachiultepec de Ahuayucan (Las Malvinas)
+09,013,Xochimilco,0138,Tepetitla (Tlacoxpan)
+09,013,Xochimilco,0139,Tlacualleli de las Flores (El Calvario)
+09,013,Xochimilco,0140,Tlaltepetla (Tehuistitla)
+09,013,Xochimilco,0143,Tlalatlaco
+09,013,Xochimilco,0146,Tlatzala (Cuayuca)
+09,013,Xochimilco,0147,Isla de las Muñecas
+09,013,Xochimilco,0151,Tepuente
+09,013,Xochimilco,0153,Ahuatitla
+09,013,Xochimilco,0157,Tipipili
+09,013,Xochimilco,0160,Paraje Tochuca (San Salvador)
+09,013,Xochimilco,0161,Tlacalteca
+09,013,Xochimilco,0162,Pepelaxtla
+09,013,Xochimilco,0163,Tecacalango
+09,013,Xochimilco,0164,Cerro Tzompole
+09,013,Xochimilco,0165,Cacalco (Tepextenco)
+09,013,Xochimilco,0169,Apatlaco
+09,013,Xochimilco,0177,Kilómetro 26
+09,013,Xochimilco,0178,Puente de Urrutia (Tlapizatil)
+09,013,Xochimilco,0180,Tepexomulco las Rocas
+09,013,Xochimilco,0181,Ocotitla Tepachuxiac
+09,013,Xochimilco,0184,Paraje Atocle
+09,013,Xochimilco,0185,Paraje los Tejocotes
+09,013,Xochimilco,0186,Granja R.R. (Los Ciruelos)
+09,013,Xochimilco,0187,Rancho el Cedro
+09,013,Xochimilco,0190,Tixculco
+09,013,Xochimilco,0191,Tecoexcontitla
+09,013,Xochimilco,0192,Quinta Patricia
+09,013,Xochimilco,0193,Bosques de la Paz
+09,013,Xochimilco,0195,Paraje Tepanyecac
+09,013,Xochimilco,0196,Tepepula
+09,013,Xochimilco,0197,La Angostura
+09,013,Xochimilco,0198,Calle de Sinatlixpa
+09,013,Xochimilco,0201,Cerro Cuatizi
+09,013,Xochimilco,0202,Paraje Zacapa
+09,013,Xochimilco,0203,Santa Catarina (Piedra Blanca)
+09,013,Xochimilco,0204,Huepaltepec
+09,013,Xochimilco,0205,Tecuanatla (Arenal Papanco)
+09,013,Xochimilco,0206,Inopilco
+09,013,Xochimilco,0207,Rancho la Flor
+09,013,Xochimilco,0208,Rancho los Cedros
+09,013,Xochimilco,0209,Cerro Tepeclite
+09,013,Xochimilco,0210,Zapatitla
+09,013,Xochimilco,0213,Nauhtepan (Tepantiagua)
+09,013,Xochimilco,0214,Tepeyecac (El Arenal)
+09,013,Xochimilco,0215,Tepexomulco (Kilómetro 27.8)
+09,013,Xochimilco,0218,Paraje Ixcuicuilco
+09,013,Xochimilco,0223,Avenida de las Torres
+09,013,Xochimilco,0224,Corralón Policía Federal de Caminos
+09,013,Xochimilco,0226,Cocopalcuautla
+09,013,Xochimilco,0229,Parada del Conejo
+09,013,Xochimilco,0231,Tecanco
+09,013,Xochimilco,0232,Atlaxco
+09,013,Xochimilco,0234,Barrio Nochicala
+09,013,Xochimilco,0235,Ninguno
+09,013,Xochimilco,0236,Camino Real a San Pedro
+09,013,Xochimilco,0237,El Cedral
+09,013,Xochimilco,0241,Tiziclipa
+09,013,Xochimilco,0242,Atenco (Tlaquilpa)
+09,013,Xochimilco,0243,Axayopa
+09,013,Xochimilco,0244,Coapantitla
+09,013,Xochimilco,0245,San Martín
+09,013,Xochimilco,0246,Rancho Francisco Villa (Tepejoyuca)
+09,013,Xochimilco,0247,Pantiagua
+09,013,Xochimilco,0249,Chililico
+09,013,Xochimilco,0251,Tecalipac
+09,013,Xochimilco,0252,Texopantitla
+09,013,Xochimilco,0253,Oluca Dos Parajes
+09,013,Xochimilco,0255,Ninguno
+09,013,Xochimilco,0257,Los Pinos
+09,013,Xochimilco,0258,Temamatla
+09,013,Xochimilco,0259,Colexco
+09,013,Xochimilco,0261,Paraje Maxacuatitla
+09,013,Xochimilco,0262,Paraje Nochicala
+09,013,Xochimilco,0263,San Juan Diego (Matlacuapa)
+09,013,Xochimilco,0265,Paraje Moyocalco
+09,013,Xochimilco,0266,Cuahuticotitla
+09,013,Xochimilco,0267,Tizilingo
+09,013,Xochimilco,0268,Alcanfores
+09,013,Xochimilco,0269,Bosques de la Paz
+09,013,Xochimilco,0270,Contlalco
+09,013,Xochimilco,0271,Tlalmelac
+09,013,Xochimilco,0272,Xometitla (Tlalitenco)
+09,014,Benito Juárez,0001,Benito Juárez
+09,015,Cuauhtémoc,0001,Cuauhtémoc
+09,016,Miguel Hidalgo,0001,Miguel Hidalgo
+09,017,Venustiano Carranza,0001,Venustiano Carranza
